@@ -54,10 +54,3 @@ Check also the <a href="https://www.pryices.com/" target="_blank">website</a>.
 
 <a name="googlemaps"><strong>Why my location is not shown correct on Google maps?</strong></a>
 <p>If for any reason you are not able to view your location on google maps make sure you type your address on chrome or google search bar to check if your address is available, if so, use that address on your business to provide other users better way to find it, using google maps.</p>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127797015-1"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-127797015-1');
-</script>
