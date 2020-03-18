@@ -42,7 +42,7 @@ Check also the <a href="https://www.pryices.com/" target="_blank">website</a>.
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
     <td align="center">
-      <table border="0" cellspacing="0" cellpadding="0" width="575">
+      <table border="0" cellspacing="0" cellpadding="0" width="575" style="margin: auto 0 auto;>
         <tr>
           <td align="center">
             <img src="https://github.com/pryices/master/blob/master/pryices_mobile_01.png" border="0" />
