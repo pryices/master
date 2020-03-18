@@ -39,79 +39,85 @@ Check also the <a href="https://www.pryices.com/" target="_blank">website</a>.
 <p>The whole objective of using pryices is to give you a free service where you can feel secure of selling your products, or finding products from other users or businesses. Remember, as a user, the information you provide will be the information displayed to other users in order to make a transparant platform with the exception of your credentials (email and password). Do not hesitate if you see any issues not working as expected in our site, the whole point is to provide you a useful tool available for your needs. Spread the word to your friends and let's build a free community of businesses.</p>
 
 # <a name="screenshots">Screenshots of how to use the Android SDK application</a>
-
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
     <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_01.png" border="0" />
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_01.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_02.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_03.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_04.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_05.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_06.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_07.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_08.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_09.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_10.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_11.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_12.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_13.png" border="0" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/pryices/master/blob/master/pryices_mobile_14.png" border="0" />
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_02.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_03.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_04.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_05.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_06.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_07.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_08.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_09.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_10.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_11.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_12.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_13.png" border="0" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/pryices/master/blob/master/pryices_mobile_14.png" border="0" />
-    </td>
-  </tr>
-</table>
+ </table>
+     
 
 # <a name="help">Help</a>
 
